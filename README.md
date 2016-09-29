@@ -1,4 +1,4 @@
-# Bootstrap vagrant project for Node.js / MongoDB apps
+# Bootstrap vagrant project for Node.js and MongoDB apps
 
 This repo is a bootstrap vagrant-based project using Node.js and MongoDB. 
 
